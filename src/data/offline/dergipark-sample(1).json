@@ -1,0 +1,163 @@
+[
+  {
+    "id": "dergipark/tr/pub/akademik-araştırmalar",
+    "name": "Akademik Araştırmalar Dergisi",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/akademik-araştırmalar",
+    "description": "Genel TR kuralları ile yayın yapan örnek bir dergi.",
+    "instructionsHtml": "<ul><li>Yazı tipi: Times New Roman</li><li>Punto: 12 pt</li><li>Satır aralığı: 1.5</li><li>İki yana yaslı</li><li>İlk satır girinti: 1.27 cm</li><li>Kenar boşlukları: 2.54 cm</li></ul>",
+    "preset": {
+      "citationStyle": "apa",
+      "journalLabel": "Akademik Araştırmalar",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  },
+  {
+    "id": "dergipark/tr/pub/bilim-ve-teknik",
+    "name": "Bilim ve Teknik Dergisi",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/bilim-ve-teknik",
+    "instructionsHtml": "<ul><li>Times New Roman, 12 pt</li><li>Çift aralık (2.0)</li><li>Kaynakça: APA</li><li>Kenar boşlukları: 2.54 cm</li></ul>",
+    "preset": {
+      "citationStyle": "apa",
+      "journalLabel": "Bilim ve Teknik",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 2,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  },
+  {
+    "id": "dergipark/tr/pub/cografya-arastirmalari",
+    "name": "Coğrafya Araştırmaları",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/cografya-arastirmalari",
+    "instructionsHtml": "<p>Metin: Times 12, satır aralığı 1.5; şekil ve tablolar numaralandırılmalıdır. Kaynakça: APA.</p>",
+    "preset": {
+      "citationStyle": "apa",
+      "journalLabel": "Coğrafya Araştırmaları",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  },
+  {
+    "id": "dergipark/tr/pub/ekonomi-yorumlari",
+    "name": "Ekonomi Yorumları",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/ekonomi-yorumlari",
+    "instructionsHtml": "<p>Makale yapısı: Başlık, Özet, Anahtar Kelimeler, Giriş, Yöntem, Bulgular, Sonuç. Metin: Times 12, 1.5 aralık.</p>",
+    "preset": {
+      "citationStyle": "apa",
+      "journalLabel": "Ekonomi Yorumları",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  },
+  {
+    "id": "dergipark/tr/pub/hukuk-ve-toplum",
+    "name": "Hukuk ve Toplum",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/hukuk-ve-toplum",
+    "instructionsHtml": "<ul><li>Metin: Times New Roman 12 pt</li><li>Dipnotlar: 10 pt</li><li>Satır aralığı: 1.5</li><li>Kaynakça: Chicago</li></ul>",
+    "preset": {
+      "citationStyle": "chicago",
+      "journalLabel": "Hukuk ve Toplum",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  },
+  {
+    "id": "dergipark/tr/pub/insan-ve-davranis",
+    "name": "İnsan ve Davranış Çalışmaları",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/insan-ve-davranis",
+    "instructionsHtml": "<p>APA biçemi zorunludur. Özet: 150-250 kelime. Anahtar Kelimeler: 3-5. Metin iki yana yaslı.</p>",
+    "preset": {
+      "citationStyle": "apa",
+      "journalLabel": "İnsan ve Davranış",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  },
+  {
+    "id": "dergipark/tr/pub/lojistik-arastirmalari",
+    "name": "Lojistik Araştırmaları",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/lojistik-arastirmalari",
+    "instructionsHtml": "<p>Şekil ve tablolar açıklamalı verilmelidir. Metin: Times 12, 1.5 aralık, iki yana yaslı.</p>",
+    "preset": {
+      "citationStyle": "apa",
+      "journalLabel": "Lojistik Araştırmaları",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  },
+  {
+    "id": "dergipark/tr/pub/saglik-bilimleri-dergisi",
+    "name": "Sağlık Bilimleri Dergisi",
+    "region": "tr",
+    "badges": ["DergiPark", "TR"],
+    "sourceUrl": "https://dergipark.org.tr/tr/pub/saglik-bilimleri-dergisi",
+    "instructionsHtml": "<ul><li>Metin: 12 pt, 1.5 aralık</li><li>Kaynakça: APA veya Vancouver kabul edilebilir</li><li>Etik kurul onayı gerekli</li></ul>",
+    "preset": {
+      "citationStyle": "apa",
+      "journalLabel": "Sağlık Bilimleri",
+      "preview": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "justify": true,
+        "firstLineIndent": "1.27cm",
+        "margin": "2.54cm"
+      }
+    }
+  }
+]
